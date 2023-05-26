@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\LUCIA\UTN\PROG 3\WIN FORM\PokemonEjemplo\ejemplos-ado-net\negocio\bin\Debug\negocio.dll
+C:\Users\HP\Documents\LUCIA\UTN\PROG 3\WIN FORM\PokemonEjemplo\ejemplos-ado-net\negocio\bin\Debug\negocio.pdb
+C:\Users\HP\Documents\LUCIA\UTN\PROG 3\WIN FORM\PokemonEjemplo\ejemplos-ado-net\negocio\bin\Debug\dominio.dll
+C:\Users\HP\Documents\LUCIA\UTN\PROG 3\WIN FORM\PokemonEjemplo\ejemplos-ado-net\negocio\bin\Debug\dominio.pdb
+C:\Users\HP\Documents\LUCIA\UTN\PROG 3\WIN FORM\PokemonEjemplo\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\LUCIA\UTN\PROG 3\WIN FORM\PokemonEjemplo\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\LUCIA\UTN\PROG 3\WIN FORM\PokemonEjemplo\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\HP\Documents\LUCIA\UTN\PROG 3\WIN FORM\PokemonEjemplo\ejemplos-ado-net\negocio\obj\Debug\negocio.dll
+C:\Users\HP\Documents\LUCIA\UTN\PROG 3\WIN FORM\PokemonEjemplo\ejemplos-ado-net\negocio\obj\Debug\negocio.pdb
